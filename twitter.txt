@@ -1,4 +1,4 @@
- 20 randomly generated Twitter handles:
+ randomly generated Twitter handles:
 
 1. @WhimsicalWanderer
 2. @ElectricDreamer
