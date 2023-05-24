@@ -27,3 +27,4 @@ regular_expression = r'\b[A-Za-z\s]+\(\d{4}\)'
 title_data = re.findall(regular_expression, movies)
 for x in title_data:
  print(x)
+
